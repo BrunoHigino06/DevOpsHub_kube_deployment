@@ -1,0 +1,8 @@
+apiVersion: v2
+name: ghostBlog
+description: A Helm chart for build a ghost blog
+version: 0.1.0
+appVersion: 1.0.0
+sources:
+  - https://github.com/BrunoHigino06/ghostBlog_kube_deployment
+  - https://ghost.org/
